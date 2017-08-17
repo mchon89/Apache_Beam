@@ -28,8 +28,8 @@ def by_value(kv1, kv2):
 # Change Project and Bucket names
 # ----------------------------------------------
 
-PROJECT='cloud-training-demos' 
-BUCKET='cloud-training-demos'
+PROJECT='your-project-name' 
+BUCKET='your-project-bucket-name'
 
 def run():
 	argv = [
